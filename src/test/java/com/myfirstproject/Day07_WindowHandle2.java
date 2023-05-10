@@ -86,6 +86,6 @@ public class Day07_WindowHandle2 extends TestBase {
         driver.switchTo().window(eBayWindowHandle);
         System.out.println(driver.getTitle());
         Thread.sleep(3000);
-
+        // Version7 for github
     }
 }
